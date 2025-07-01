@@ -6,7 +6,8 @@ Welcome to my profile!
 
 👨‍💻 Senior Software Engineer | 10+ years of squashing bugs and shipping code.
 
-🌐 Full-stack by trade, problem-solver by habit. From designing architecture to debugging that one weird bug in production (you know the one), I’ve been there.
+🌐 Front-end by trade, problem-solver by habit. From crafting intuitive user experiences to chasing down that one elusive rendering bug (yes, that one), I’ve been there. Whether it’s optimizing performance, building pixel-perfect interfaces, or making sense of tangled state logic, I’m all in.
+
 
 🧭 Experienced tech lead: mentoring engineers, aligning with stakeholders, and occasionally translating “just a small change” into three sprints of work.
 
