@@ -6,24 +6,26 @@ Welcome to my profile!
 
 👨‍💻 Senior Software Engineer | 10+ years of squashing bugs and shipping code.
 
-🌐 Front-end by trade, problem-solver by habit. From crafting intuitive user experiences to chasing down that one elusive rendering bug (yes, that one), I’ve been there. Whether it’s optimizing performance, building pixel-perfect interfaces, or making sense of tangled state logic, I’m all in.
+🌐 Problem-solver by nature. From crafting seamless user experiences to hunting down elusive rendering bugs (yes, that one), I’ve tackled challenges across the stack. Whether it's optimizing performance, architecting maintainable codebases, or wrangling complex state logic, I'm all in—committed to building reliable, scalable, and user-centric software.
+
 
 
 🧭 Experienced tech lead: mentoring engineers, aligning with stakeholders, and occasionally translating “just a small change” into three sprints of work.
 
-💬 Fluent in AWS, JavaScript, Node.js, and React.js
+💬 Fluent  JavaScript/Typescript,  ECMA ES6 , Node.js, and React.js, AWS SNS, AWS SQS, AWS S3 bucket, Dynamo DB.
 
 - 📫 How to reach me:  
   [![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-informational?style=flat&logo=linkedin)](https://www.linkedin.com/in/aguilar-julio/)  
-  or Email: julio.aguilar.resume@outlook.com
+  or Email: pool.julio.a@gmail.com
 
 - 🛠️ Languages & Tools I use:  
   ![Microservices](https://img.shields.io/badge/Architecture-Microservices-blue) ![Microfrontend](https://img.shields.io/badge/Architecture-Microfrontend-blue) ![React.js](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js) ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws) ![Serverless](https://img.shields.io/badge/Framework-Serverless-informational?style=flat&logo=serverless)
 
 ## 🔧 Projects & Contributions
 
-🔒 Private Contributions – Most of my work is in private repositories due to NDA restrictions. I develop scalable React.js components, write unit tests using Jest, Enzyme, or other testing frameworks, and contribute to front-end architecture. I mentor junior developers and lead initiatives to migrate legacy systems to microfrontend architectures. Additionally, I develop RESTful APIs using serverless architecture on AWS to support key business functionality.  
-Tech stack: React.js, Node.js, AWS, DynamoDB, Splunk, Cognito.
+🔒 Private Contributions – My work is primarily within private, enterprise-grade codebases under strict NDA constraints. I contribute to front-end architecture, lead initiatives to modernize legacy systems through microfrontend migrations, and actively mentor junior developers to elevate team performance.
+
+On the back end, I build secure and efficient RESTful APIs using serverless technologies on AWS, leveraging services such as Lambda, API Gateway, DynamoDB, and Cognito to support critical business functionalities. I also implement robust testing strategies using frameworks like Jest and Sinon, Chai, ensuring code quality and long-term maintainability.
 
 ## ✨ Fun Facts
 
