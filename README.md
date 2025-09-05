@@ -31,4 +31,8 @@ On the back end, I build secure and efficient RESTful APIs using serverless tech
 
 - 🌍 I enjoy exploring new tech and building things that help people
 
+## Npm Package
+[![npm version](https://badge.fury.io/js/groupjs_by.svg)](https://www.npmjs.com/package/groupjs_by)
+
+
 Thanks for stopping by! Feel free to follow or reach out. 🚀
