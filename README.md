@@ -4,35 +4,68 @@ Welcome to my profile!
 
 ## 🚀 About Me
 
-👨‍💻 Senior Software Engineer | 10+ years of squashing bugs and shipping code.
+👨‍💻 **Staff Software Engineer & Tech Lead** | 12+ years of building systems that scale.
 
-🌐 Problem-solver by nature. From crafting seamless user experiences to hunting down elusive rendering bugs (yes, that one), I’ve tackled challenges across the stack. Whether it's optimizing performance, architecting maintainable codebases, or wrangling complex state logic, I'm all in—committed to building reliable, scalable, and user-centric software.
+🌐 I think in systems. My deepest impact has been at the intersection of frontend architecture, developer experience, and platforms that hold up under real-world constraints. At Autodesk, I architected a micro-frontend platform using Webpack Module Federation that reduced CI build times by 63% and enabled independent deployments across 5+ product surfaces. I led a React 18 migration for mission-critical surfaces with zero downtime, improved page load performance by 60%, and reduced frontend technical debt by 30%—while partnering closely with Product and Engineering leadership on technical strategy and execution.
 
+🧭 Experienced tech lead: mentoring engineers, aligning with stakeholders, and occasionally translating "just a small change" into three sprints of work.
 
+🤖 Recently, my focus has expanded into AI-native and agentic system design—LLM-powered applications, tool-using agents, and orchestration patterns using Claude, OpenAI APIs, and MCP (Model Context Protocol). I'm especially interested in how traditional platform and architecture thinking applies to building reliable, production-grade AI systems.
 
-🧭 Experienced tech lead: mentoring engineers, aligning with stakeholders, and occasionally translating “just a small change” into three sprints of work.
-
-💬 Fluent  JavaScript/Typescript,  ECMA ES6 , Node.js, and React.js, AWS SNS, AWS SQS, AWS S3 bucket, Dynamo DB.
+💬 Fluent in JavaScript/TypeScript, ES6+, Node.js, React.js, and AWS (SNS, SQS, S3, DynamoDB, Lambda, API Gateway, Cognito).
 
 - 📫 How to reach me:  
   [![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-informational?style=flat&logo=linkedin)](https://www.linkedin.com/in/aguilar-julio/)  
   or Email: pool.julio.a@gmail.com
 
 - 🛠️ Languages & Tools I use:  
-  ![Microservices](https://img.shields.io/badge/Architecture-Microservices-blue) ![Microfrontend](https://img.shields.io/badge/Architecture-Microfrontend-blue) ![React.js](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js) ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws) ![Serverless](https://img.shields.io/badge/Framework-Serverless-informational?style=flat&logo=serverless)
+  ![Microfrontend](https://img.shields.io/badge/Architecture-Microfrontend-blue) ![Microservices](https://img.shields.io/badge/Architecture-Microservices-blue) ![React.js](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=react) ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript) ![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js) ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws) ![Serverless](https://img.shields.io/badge/Framework-Serverless-informational?style=flat&logo=serverless) ![Claude API](https://img.shields.io/badge/AI-Claude_API-informational?style=flat) ![MCP](https://img.shields.io/badge/AI-MCP-informational?style=flat)
+
+---
 
 ## 🔧 Projects & Contributions
 
-🔒 Private Contributions – My work is primarily within private, enterprise-grade codebases under strict NDA constraints. I contribute to front-end architecture, lead initiatives to modernize legacy systems through microfrontend migrations, and actively mentor junior developers to elevate team performance.
+**🏗️ Micro-frontend platform · Autodesk** — Architected a Webpack Module Federation platform enabling independent deployments across 5+ product surfaces, cutting CI build times by 63% and reducing frontend technical debt by 30%.
 
-On the back end, I build secure and efficient RESTful APIs using serverless technologies on AWS, leveraging services such as Lambda, API Gateway, DynamoDB, and Cognito to support critical business functionalities. I also implement robust testing strategies using frameworks like Jest and Sinon, Chai, ensuring code quality and long-term maintainability.
+**⚛️ React 18 migration · zero downtime** — Led migration of mission-critical surfaces to React 18, improving page load performance by 60%, in close partnership with Product and Engineering leadership.
+
+**🤖 AI-native & agentic systems** — Designing LLM-powered applications, tool-using agents, and orchestration patterns using Claude, OpenAI APIs, and MCP—applying platform architecture thinking to production-grade AI systems.
+
+**🔒 Private enterprise contributions** — Most work lives in NDA-protected, enterprise-grade codebases. On the back end, I build secure and efficient RESTful APIs using serverless technologies on AWS—Lambda, API Gateway, DynamoDB, and Cognito. Testing strategy: Jest, Sinon, and Chai. On the front end: legacy modernization, microfrontend migrations, architecture leadership, and mentoring junior engineers to elevate team performance.
+
+---
+
+## 📊 Impact at a Glance
+
+| Metric | Result |
+|---|---|
+| CI build time reduction | 63% |
+| Page load performance improvement | 60% |
+| Frontend technical debt reduction | 30% |
+| Independent product surfaces deployed | 5+ |
+
+---
 
 ## ✨ Fun Facts
 
 - 🌍 I enjoy exploring new tech and building things that help people
+- 🧩 Interested in hard problems at scale—especially at the intersection of platform engineering, AI systems, and developer productivity
+- 🤝 Always open to connecting with engineers and founders building something ambitious
 
-## Npm Package
+---
+
+## 🏅 Certifications
+
+| Certification | Issuer | Valid |
+|---|---|---|
+| [Claude Certified Architect – Foundations](https://verify.skilljar.com/c/x84qpb2ykvif) | Anthropic | May 2026 – Nov 2026 |
+
+---
+
+## 📦 Npm Package
+
 [![npm version](https://badge.fury.io/js/groupjs_by.svg)](https://www.npmjs.com/package/groupjs_by)
 
+---
 
 Thanks for stopping by! Feel free to follow or reach out. 🚀
